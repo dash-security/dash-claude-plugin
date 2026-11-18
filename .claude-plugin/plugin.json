@@ -1,0 +1,17 @@
+{
+  "name": "dash-security",
+  "displayName": "Dash Security",
+  "version": "0.1.0",
+  "description": "Discover your AI estate, assess supply-chain and shadow AI risk, investigate agent sessions, and track AI spend through the Dash MCP.",
+  "author": {
+    "name": "Dash Security",
+    "email": "support@dash.security",
+    "url": "https://dash.security"
+  },
+  "homepage": "https://dash.security",
+  "repository": "https://github.com/dash-security/dash-claude-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://dash.security/privacy-policy",
+  "icon": "assets/icon.png",
+  "keywords": ["dash", "security", "ai-security", "agent-security", "mcp", "shadow-ai", "supply-chain", "ai-spend", "ai-governance", "runtime-detection"]
+}
